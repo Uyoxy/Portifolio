@@ -27,7 +27,7 @@ const About = () => {
 
       <h3 className="text-2xl font-semibold mt-6">Check Out My Work</h3>
       <p className="mt-2">
-        I’ve worked on several exciting projects. Feel free to explore them on my <a href="https://github.com/uyoxy" className="text-purple-500 underline">GitHub</a> or <a href="https://www.linkedin.com/in/yourlinkedin/" className="text-purple-500 underline">LinkedIn</a>.
+        I’ve worked on several exciting projects. Feel free to explore them on my <a href="https://github.com/uyoxy" className="text-purple-500 underline">GitHub</a> or <a href="https://www.linkedin.com/in/blessing-timothy-79749a240/" className="text-purple-500 underline">LinkedIn</a>.
       </p>
 
       <h3 className="text-2xl font-semibold mt-6">Testimonials</h3>
